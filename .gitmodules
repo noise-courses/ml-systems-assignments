@@ -1,0 +1,6 @@
+[submodule "video-qoe"]
+	path = video-qoe
+	url = git@github.com:noise-courses/video-qoe.git
+[submodule "project"]
+	path = project
+	url = git@github.com:noise-courses/ml-sys-project.git
